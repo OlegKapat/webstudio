@@ -1,0 +1,22 @@
+﻿body {
+     position: relative; 
+}
+.site{
+    text-align:center;
+    margin-left:0px;
+    width:auto;
+    height:auto;
+    font-size:12px;
+    
+}
+#section1 .card-group{
+    margin-left:100px;
+}
+.breadcrumb h1{
+    margin:10px;
+}
+
+#section42 .marketing{
+    
+    
+}
